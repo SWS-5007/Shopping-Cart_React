@@ -88,6 +88,3 @@ Although these docs are children of product doc, skus are specific to the produc
 ![cloud-storage-example](https://github.com/top-comengineer/readme/assets/87621233/1b4be5df-8267-4bc9-8437-c809262c727a)
 Each image should be stored in a folder with a name that corresponds to its respective ID. Aditionally each image folder should be stored in the "product-images" repository. The "src" is obtained by clicking the link inside the red rectangle. See image above and the one in Variants Subcollection section.
 
-## Authors
-
-- [@top-comengineer](https://github.com/top-comengineer)
